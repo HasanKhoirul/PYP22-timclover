@@ -1,0 +1,79 @@
+{
+    "information": [{
+            "_id": "1",
+            "imageUrl": "/images/ic_app.png",
+            "title": "Course Terpercaya",
+            "desc": "Memberikan pembelajaran legal karena terhubung dengan pihak berwenang"
+        },
+        {
+            "_id": "2",
+            "imageUrl": "/images/ic_system.png",
+            "title": "Metode Level",
+            "desc": "Terdapat jadwal pelatihan sesuai kemampuan level"
+        },
+        {
+            "_id": "3",
+            "imageUrl": "/images/ic_poin.png",
+            "title": "Terdapat Si Koin",
+            "desc": "Koin yang ada bisa digunakan untuk membuka kelas Berbayar (PREMIERE)"
+        }
+    ],
+
+    "featured": [{
+            "_id": "1",
+            "name": "Top Up Koin",
+            "imageUrl": "/images/ic_peminjaman.png"
+        },
+        {
+            "_id": "2",
+            "name": "Belanja Kelas Khusus",
+            "imageUrl": "/images/ic_belanja.png"
+        },
+        {
+            "_id": "3",
+            "name": "Artikel & Video Pembelajaran",
+            "imageUrl": "/images/ic_article.png"
+        },
+        {
+            "_id": "4",
+            "name": "Kelas",
+            "imageUrl": "/images/ic_tokenpulsa.png"
+        },
+        {
+            "_id": "5",
+            "name": "Rangkuman Materi Kelas",
+            "imageUrl": "/images/ic_finance.png"
+        },
+        {
+            "_id": "6",
+            "name": "Lihat Fitur Lainnya",
+            "imageUrl": "/images/ic_lainnya.png"
+        }
+    ],
+
+    "team": [{
+            "_id": "1",
+            "name": "Hasan Khoirul Ari Setiyawan",
+            "roles": "Hacker",
+            "imageUrl": "Images 1",
+            "github": "Github 1",
+            "instagram": "Instagram 1"
+        },
+        {
+            "_id": "2",
+            "name": "Gustiar Wisnu Wardana",
+            "roles": "Hipster",
+            "imageUrl": "Images 2",
+            "github": "Github 2",
+            "instagram": "Instagram 2"
+        },
+        {
+            "_id": "3",
+            "name": "Thya Vitaloka",
+            "roles": "Hustler",
+            "imageUrl": "Images 3",
+            "github": "Github 3",
+            "instagram": "Instagram 3"
+        }
+    ]
+}

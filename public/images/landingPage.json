@@ -1,0 +1,79 @@
+{
+    "information": [{
+            "_id": "1",
+            "imageUrl": "/images/ic_e-course.png",
+            "title": "Paket Lengkap",
+            "desc": "Pinjam modal, berjualan dan berbelanja dalam satu aplikasi"
+        },
+        {
+            "_id": "2",
+            "imageUrl": "/images/ic_e-module.png",
+            "title": "Metode Syariah",
+            "desc": "Sistem peminjaman modal kami menggunakan metode Modal Ventura"
+        },
+        {
+            "_id": "3",
+            "imageUrl": "/images/ic_test.png",
+            "title": "Tukar Poin",
+            "desc": "Poin yang ada bisa ditukar dengan produk yang ada di aplikasi SiBaik"
+        }
+    ],
+
+    "featured": [{
+            "_id": "1",
+            "name": "Pinjaman Modal",
+            "imageUrl": "/images/ic_test1.svg"
+        },
+        {
+            "_id": "2",
+            "name": "Belanja Online",
+            "imageUrl": "/images/ic_test2.svg"
+        },
+        {
+            "_id": "3",
+            "name": "Artikel Edukasi",
+            "imageUrl": "/images/ic_test1.svg"
+        },
+        {
+            "_id": "4",
+            "name": "Token dan Pulsa",
+            "imageUrl": "/images/ic_test2.svg"
+        },
+        {
+            "_id": "5",
+            "name": "Pencatatan Keuangan",
+            "imageUrl": "/images/ic_test1.svg"
+        },
+        {
+            "_id": "6",
+            "name": "Fitur Lainnyaaa",
+            "imageUrl": "/images/ic_test2.svg"
+        }
+    ],
+
+    "team": [{
+            "_id": "1",
+            "name": "Rendi Fadilah",
+            "roles": "Hacker",
+            "imageUrl": "Images 1",
+            "github": "Github 1",
+            "instagram": "Instagram 1"
+        },
+        {
+            "_id": "2",
+            "name": "Vicky Kustaman",
+            "roles": "Hipster",
+            "imageUrl": "Images 2",
+            "github": "Github 2",
+            "instagram": "Instagram 2"
+        },
+        {
+            "_id": "3",
+            "name": "Muhammad Taufan",
+            "roles": "Hustler",
+            "imageUrl": "Images 3",
+            "github": "Github 3",
+            "instagram": "Instagram 3"
+        }
+    ]
+}

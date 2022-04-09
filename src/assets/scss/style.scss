@@ -1,0 +1,160 @@
+/*!
+ * Bootstrap v4.5.3 (https://getbootstrap.com/)
+ * Copyright 2011-2020 The Bootstrap Authors
+ * Copyright 2011-2020 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ 
+ */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;1,300&display=swap");
+@import "functions";
+@import "variables";
+@import "mixins";
+@import "root";
+@import "reboot";
+@import "type";
+@import "images";
+@import "code";
+@import "grid";
+@import "tables";
+@import "forms";
+@import "buttons";
+@import "transitions";
+@import "dropdown";
+@import "button-group";
+@import "input-group";
+@import "custom-forms";
+@import "nav";
+@import "navbar";
+@import "card";
+@import "breadcrumb";
+@import "pagination";
+@import "badge";
+@import "jumbotron";
+@import "alert";
+@import "progress";
+@import "media";
+@import "list-group";
+@import "close";
+@import "toasts";
+@import "modal";
+@import "tooltip";
+@import "popover";
+@import "carousel";
+@import "spinners";
+@import "utilities";
+@import "print";
+.body {
+    background: #f6f8fd;
+}
+
+header {
+    margin-bottom: 40px;
+    .navbar {
+        height: 80px;
+        ul.navbar-nav {
+            li.nav-item {
+                &.active {
+                    a.nav-link {
+                        color: #3252df;
+                        font-weight: bold;
+                        font-family: "Poppins", sans-serif;
+                    }
+                }
+                a {
+                    &.nav-link {
+                        letter-spacing: 1px;
+                        color: #152c5b;
+                        padding-left: 1rem;
+                        padding-right: 1rem;
+                        font-size: 16px;
+                        font-family: "Poppins", sans-serif;
+                        &:hover {
+                            text-decoration: underline;
+                            cursor: pointer;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.hero {
+    h1 {
+        font-size: 42px;
+        color: #152c5b;
+        font-family: "Poppins", sans-serif;
+    }
+    p {
+        font-size: 18px;
+        color: #b0b0b0;
+    }
+}
+
+.information {
+    margin-bottom: 50px;
+    h2 {
+        font-family: "Poppipns", sans-serif;
+        font-size: 28px;
+        font-weight: bold;
+    }
+    p {
+        font-weight: 200;
+        font-size: 18px;
+        font-family: "Poppipns", sans-serif;
+        color: #b0b0b0;
+    }
+    .card-information {
+        padding: 40px 20px 10px;
+        border-radius: 8px;
+        border: none;
+        margin-bottom: 20px;
+        .information {
+            min-height: 200px;
+        }
+        h3 {
+            font-family: "Poppins", sans-serif;
+            font-weight: 600;
+            font-size: 22px;
+            margin-top: 20px;
+            color: #000000;
+        }
+        .text-information {
+            font-weight: 300;
+            font-size: 18px;
+            color: #000000;
+            font-family: "Poppipns", sans-serif;
+        }
+    }
+}
+
+.featured {
+    h2 {
+        font-family: "Poppipns", sans-serif;
+        font-size: 28px;
+        font-weight: bold;
+    }
+    p {
+        font-weight: 300;
+        font-size: 18px;
+        font-family: "Poppipns", sans-serif;
+        color: #b0b0b0;
+    }
+    .card-featured {
+        padding: 40px 20px 10px;
+        border-radius: 8px;
+        border: none;
+        margin-bottom: 20px;
+        .featured {
+            min-height: 100px;
+        }
+        h3 {
+            font-family: "Poppins", sans-serif;
+            font-weight: 500;
+            font-size: 18px;
+            margin-top: 20px;
+            color: #000000;
+        }
+    }
+}

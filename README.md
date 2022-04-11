@@ -1,2 +1,2 @@
 # PYP22-timclover
-PROGRAM: KA AQIL membuat tampilan mobile dengan JavaScript
+Program: Ka Aqil membuat tampilan mobile dengan JavaScript
